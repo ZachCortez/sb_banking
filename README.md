@@ -15,8 +15,8 @@
    <div align="center">
      Built with Next.js, Horizon is a financial SaaS platform 
     </div>
-    
 </div>
+
 ## 📋 <a name="table">Table of Contents</a>
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
