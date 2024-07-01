@@ -3,16 +3,19 @@
     <a href="https://ibb.co/bWdhrjZ"><img src="https://i.ibb.co/xC5vMK0/Screenshot-2024-06-26-223907.png" alt="Screenshot-2024-06-26-223907" border="0">
     </a>
   <br />
+  
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
   </div>
+  
   <h3 align="center">A Fintech Bank Application</h3>
    <div align="center">
      Built with Next.js, Horizon is a financial SaaS platform 
     </div>
+    
 </div>
 ## 📋 <a name="table">Table of Contents</a>
 1. 🤖 [Introduction](#introduction)
@@ -33,6 +36,7 @@ Built with Next.js, Horizon is a financial SaaS platform that connects to multip
 - Chart.js
 - ShadCN
 ## <a name="features">🔋 Features</a>
+
 👉 **Authentication**: An ultra-secure SSR authentication with proper validations and authorization
 
 👉 **Connect Banks**: Integrates with Plaid for multiple bank account linking
