@@ -68,8 +68,13 @@ const MobileNav = ({ user }: MobileNavProps) => {
                   </SheetClose>
                 )
               })}
-
-              USER
+              <p>
+                <span className="text-bankGradient">
+                  &nbsp;{user?.firstName}{user?.lastName}
+                </span>
+              </p>
+            
+ 
               </nav>
             </SheetClose>
 
